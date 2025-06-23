@@ -10,7 +10,9 @@
 ### 二、展示效果
 + **主界面展示**
 <img src="src/主页.png" alt="">
+
 + **预测界面展示**
 <img src="src/预测页面.png" alt="">
+
 + 感兴趣的话，可以观看一下b站交互页面展示效果。
 https://www.bilibili.com/video/BV17GKtz6Eg6
